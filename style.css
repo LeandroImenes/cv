@@ -42,6 +42,7 @@ body {
 
 .right-column {
     flex: 1;
+    margin-top: 72px;
 }
 
 /* Nome do Titular */
